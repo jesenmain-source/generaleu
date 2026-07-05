@@ -71,7 +71,7 @@ end
 
 Menu.Banner = {
     enabled = true,
-    imageUrl = "https://i.imgur.com/cOFPinI.gif",
+    imageUrl = "https://cdn.discordapp.com/attachments/1522729383163461722/1523254675728629781/ChatGPT_Image_Jul_5_2026_12_03_29_PM.png?ex=6a4b70f7&is=6a4a1f77&hm=670fe456eefcebe2ac0dc0c80969d914d73f6dd23c93ed76a53f3a5faf8efc55&",
     height = 100
 }
 
