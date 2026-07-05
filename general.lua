@@ -143,27 +143,27 @@ function Menu.ApplyTheme(themeName)
     if themeLower == "red" then
         Menu.Colors.HeaderPink = { r = 255, g = 0, b = 0 }
         Menu.Colors.SelectedBg = { r = 255, g = 0, b = 0 }
-        Menu.Banner.imageUrl = "https://i.imgur.com/cOFPinI.gif"
+        Menu.Banner.imageUrl = "https://cdn.discordapp.com/attachments/1522729383163461722/1523254675728629781/ChatGPT_Image_Jul_5_2026_12_03_29_PM.png?ex=6a4b70f7&is=6a4a1f77&hm=670fe456eefcebe2ac0dc0c80969d914d73f6dd23c93ed76a53f3a5faf8efc55&"
         Menu.CurrentTheme = "Red"
     elseif themeLower == "purple" then
         Menu.Colors.HeaderPink = { r = 148, g = 0, b = 211 }
         Menu.Colors.SelectedBg = { r = 148, g = 0, b = 211 }
-        Menu.Banner.imageUrl = "https://i.imgur.com/8wGWjBh.png"
+        Menu.Banner.imageUrl = "https://cdn.discordapp.com/attachments/1522729383163461722/1523254675728629781/ChatGPT_Image_Jul_5_2026_12_03_29_PM.png?ex=6a4b70f7&is=6a4a1f77&hm=670fe456eefcebe2ac0dc0c80969d914d73f6dd23c93ed76a53f3a5faf8efc55&"
         Menu.CurrentTheme = "Purple"
     elseif themeLower == "gray" then
         Menu.Colors.HeaderPink = { r = 128, g = 128, b = 128 }
         Menu.Colors.SelectedBg = { r = 128, g = 128, b = 128 }
-        Menu.Banner.imageUrl = "https://i.imgur.com/iZnBhaR.jpeg"
+        Menu.Banner.imageUrl = "https://cdn.discordapp.com/attachments/1522729383163461722/1523254675728629781/ChatGPT_Image_Jul_5_2026_12_03_29_PM.png?ex=6a4b70f7&is=6a4a1f77&hm=670fe456eefcebe2ac0dc0c80969d914d73f6dd23c93ed76a53f3a5faf8efc55&"
         Menu.CurrentTheme = "Gray"
     elseif themeLower == "pink" then
         Menu.Colors.HeaderPink = { r = 255, g = 20, b = 147 }
         Menu.Colors.SelectedBg = { r = 255, g = 20, b = 147 }
-        Menu.Banner.imageUrl = "https://i.imgur.com/BbABj2n.png"
+        Menu.Banner.imageUrl = "https://cdn.discordapp.com/attachments/1522729383163461722/1523254675728629781/ChatGPT_Image_Jul_5_2026_12_03_29_PM.png?ex=6a4b70f7&is=6a4a1f77&hm=670fe456eefcebe2ac0dc0c80969d914d73f6dd23c93ed76a53f3a5faf8efc55&"
         Menu.CurrentTheme = "pink"
     else
         Menu.Colors.HeaderPink = { r = 148, g = 0, b = 211 }
         Menu.Colors.SelectedBg = { r = 148, g = 0, b = 211 }
-        Menu.Banner.imageUrl = "https://i.imgur.com/8wGWjBh.png"
+        Menu.Banner.imageUrl = "https://cdn.discordapp.com/attachments/1522729383163461722/1523254675728629781/ChatGPT_Image_Jul_5_2026_12_03_29_PM.png?ex=6a4b70f7&is=6a4a1f77&hm=670fe456eefcebe2ac0dc0c80969d914d73f6dd23c93ed76a53f3a5faf8efc55&"
         Menu.CurrentTheme = "Purple"
     end
 
